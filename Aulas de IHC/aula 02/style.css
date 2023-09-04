@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(185, 82, 82);
+    
+}
+
+#Fonte1{
+display: flex;
+justify-content: center;
+color: rgb(49, 42, 33);
+font-size: 60px;
+    
+}
+#Fonte2{
+    font-size: 30px;
+    color: azure;
+}
+    div{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    img{
+        height: 200px;
+        width: 200px;
+    }
+    
+    }
